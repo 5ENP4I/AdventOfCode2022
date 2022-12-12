@@ -1,0 +1,7 @@
+Z:\3\PWA\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+Z:\3\PWA\AdventOfCode\bin\Debug\AdventOfCode.exe
+Z:\3\PWA\AdventOfCode\bin\Debug\AdventOfCode.pdb
+Z:\3\PWA\AdventOfCode\obj\Debug\AdventOfCode.csproj.AssemblyReference.cache
+Z:\3\PWA\AdventOfCode\obj\Debug\AdventOfCode.csproj.CoreCompileInputs.cache
+Z:\3\PWA\AdventOfCode\obj\Debug\AdventOfCode.exe
+Z:\3\PWA\AdventOfCode\obj\Debug\AdventOfCode.pdb
